@@ -4,7 +4,7 @@ App Demo Video: [YouTube Link](https://www.youtube.com/watch?v=F1wInckuaYM)
 
 # LemonTree Grove
 
-**Morgan Stanley Code for Good 2026 — Track B, Team 8**
+**Morgan Stanley Code to Give 2026 — Track B, Team 8**
 
 A multi-persona analytics dashboard for LemonTree food access partners across New York City. Built for food pantry operators, government analysts, donors, and platform admins — powered by live Supabase data and Google Gemini AI insights.
 
